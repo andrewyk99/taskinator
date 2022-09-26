@@ -17,7 +17,7 @@ As a user looking for a simple to-do list, I would like an application that allo
 * Open index.html in browser
 
 ## Live Website
-You do not have to download code if you just wish to use the application. You can view the live website [here](https://andrewyk99.github.io/taskinator/)!
+You do not have to download the code if you just wish to use the application. You can view the live website [here](https://andrewyk99.github.io/taskinator/)!
 
 ![screenshot of website](./assets/images/screenshot.png?raw=true "Screenshot")
 Screenshot of Application
