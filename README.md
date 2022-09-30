@@ -11,7 +11,7 @@ As a user looking for a simple to-do list, I would like an application that allo
 
 ## Installation
 ### Clone Repository
-* git clone https://github.com/andrewyk99/taskinator
+* git clone https://github.com/andrewyk99/taskinator.git
 
 ### Start Application
 * Open index.html in browser
